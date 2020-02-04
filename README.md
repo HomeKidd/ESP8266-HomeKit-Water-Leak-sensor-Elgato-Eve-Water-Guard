@@ -32,7 +32,7 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 
 <br/>
 <br/>
-<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Water-Leak-sensor-Elgato-Eve-Water-Guard/raw/master/images/homekid_mockup_2.jpg" class="center" width="650"/>
+<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Water-Leak-sensor-Elgato-Eve-Water-Guard/raw/master/images/alert.PNG" class="center" width="600"/>
 
 <br/>
 
